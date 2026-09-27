@@ -58,7 +58,14 @@ Estudiante de Ingeniería / Ciencias de la Computación 🇵🇦 &nbsp;·&nbsp; 
       <br/>
       <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <a href="https://github.com/ejurado022-rgb/MisGastos"><b>💰 MisGastos</b></a>
+      <br/>
+      App Android en Java para registrar y controlar gastos personales.
+      <br/>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
@@ -94,6 +101,5 @@ Estudiante de Ingeniería / Ciencias de la Computación 🇵🇦 &nbsp;·&nbsp; 
 
 <p align="left">
   <a href="https://github.com/ejurado022-rgb"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ernesto-jurado-6b5a112a4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
-
-> www.linkedin.com/in/ernesto-jurado-6b5a112a4
