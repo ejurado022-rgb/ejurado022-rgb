@@ -96,4 +96,4 @@ Estudiante de Ingeniería / Ciencias de la Computación 🇵🇦 &nbsp;·&nbsp; 
   <a href="https://github.com/ejurado022-rgb"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-> ¿Quieres agregar tu correo o LinkedIn aquí? Solo edita esta sección del README.
+> www.linkedin.com/in/ernesto-jurado-6b5a112a4
